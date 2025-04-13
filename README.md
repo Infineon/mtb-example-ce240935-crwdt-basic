@@ -4,12 +4,12 @@ This code example demonstrates how CRWDT works by changing the watchdog service 
 
 [View this README on GitHub.](https://github.com/Infineon/mtb-example-ce240935-crwdt-basic)
 
-[Provide feedback on this code example.](https://cypress.co1.qualtrics.com/jfe/form/SV_1NTns53sK2yiljn?Q_EED=eyJVbmlxdWUgRG9jIElkIjoiQ0UyNDA5MzUiLCJTcGVjIE51bWJlciI6IjAwMi00MDkzNSIsIkRvYyBUaXRsZSI6IkNoYWxsZW5nZS1yZXNwb25zZSB3YXRjaGRvZyB0aW1lciAoQ1JXRFQpIGJhc2ljIiwicmlkIjoic2F0b3MiLCJEb2MgdmVyc2lvbiI6IjEuMC4wIiwiRG9jIExhbmd1YWdlIjoiRW5nbGlzaCIsIkRvYyBEaXZpc2lvbiI6Ik1DRCIsIkRvYyBCVSI6IkFVVE8iLCJEb2MgRmFtaWx5IjoiQVVUTyBQU09DIn0=)
+[Provide feedback on this code example.](https://cypress.co1.qualtrics.com/jfe/form/SV_1NTns53sK2yiljn?Q_EED=eyJVbmlxdWUgRG9jIElkIjoiQ0UyNDA5MzUiLCJTcGVjIE51bWJlciI6IjAwMi00MDkzNSIsIkRvYyBUaXRsZSI6IkNoYWxsZW5nZS1yZXNwb25zZSB3YXRjaGRvZyB0aW1lciAoQ1JXRFQpIGJhc2ljIiwicmlkIjoic2F0b3MiLCJEb2MgdmVyc2lvbiI6IjEuMS4wIiwiRG9jIExhbmd1YWdlIjoiRW5nbGlzaCIsIkRvYyBEaXZpc2lvbiI6Ik1DRCIsIkRvYyBCVSI6IkFVVE8iLCJEb2MgRmFtaWx5IjoiQVVUTyBQU09DIn0=)
 
 
 ## Requirements
 
-- [ModusToolbox&trade;](https://www.infineon.com/modustoolbox) v3.2 or later (tested with v3.2)
+- [ModusToolbox&trade;](https://www.infineon.com/modustoolbox) v3.4 or later (tested with v3.4)
 - Board support package (BSP) minimum required version: 3.1.0
 - Programming language: C
 - Associated parts:  [PSOC&trade; 4 HV MCU](https://www.infineon.com/cms/en/product/microcontroller/32-bit-psoc-arm-cortex-microcontroller/32-bit-psoc-4-hv-arm-cortex-m0/)
@@ -264,9 +264,10 @@ Infineon provides a wealth of data at [www.infineon.com](https://www.infineon.co
 
 Document title: *CE240935* – *Challenge-response watchdog timer (CRWDT) basic*
 
-Version | Description of change
-------- | ---------------------
-1.0.0   | New code example
+ Version | Description of change
+ ------- | ---------------------
+ 1.0.0   | New code example
+ 1.1.0   | Changed PSoC HV MS kit name to PSOC4 and updated to support ModusToolbox&trade; v3.4.
 <br>
 
 
